@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.summary = 'Boost provides free peer-reviewed portable C++ source libraries.'
   spec.authors = 'Rene Rivera'
   spec.source = { :http => 'https://boostorg.jfrog.io/artifactory/main/release/1.76.0/source/boost_1_76_0.tar.bz2',
-                  :sha256 => 'f0397ba6e982c4450f27bf32a2a83292aba035b827a5623a14636ea583318c41' }
+                  :sha256 => '79e6d3f986444e5a80afbeccdaf2d1c1cf964baa8d766d20859d653a16c39848' }
 
   # Pinning to the same version as React.podspec.
   spec.platforms = { :ios => '11.0' }
